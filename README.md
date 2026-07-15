@@ -8,6 +8,13 @@ The code is intentionally modular: `models.py` contains replaceable subsystem cu
 
 It also includes a professional Streamlit dashboard for interactive mission simulation, timeline visualization, Pareto exploration, sensitivity review, and design-summary export.
 
+## 1. Team Information
+| Name | 
+|------|
+| Gaurav Shivakumar | 
+| Keerthana Bhat | 
+| Shraddha  | 
+
 ## Install
 
 ```bash
